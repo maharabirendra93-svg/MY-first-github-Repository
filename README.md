@@ -1,1 +1,1 @@
-# MY-firt-githup-Repository
+# MY-first-githup-Repository
